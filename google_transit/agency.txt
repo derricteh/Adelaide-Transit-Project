@@ -1,0 +1,14 @@
+agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_phone,agency_fare_url
+10,Stateliner,https://stateliner.com.au/,Australia/Adelaide,EN,(08) 8415 5555,https://stateliner.com.au/bus-timetables-bookings/bookings-and-fare-calculator/
+12,Des's Transport,https://des.com.au/,Australia/Adelaide,EN,(08) 8644 7744,https://des.com.au/bus-coach-company/
+14,BusBiz,https://www.busbiz.net.au/,Australia/Adelaide,EN,(08) 8586 6333,https://www.busbiz.net.au/school-buses-sa#SouthAustraliaRiverland
+15,SeaLink,https://www.sealink.com.au/,Australia/Adelaide,EN,1300 133 779,https://www.sealink.com.au/kangaroo-island/timetable/
+2,Adelaide Metro (Rail Commissioner),https://www.adelaidemetro.com.au/,Australia/Adelaide,EN,1300 311 108,https://www.adelaidemetro.com.au/tickets-and-fares/adelaide-metro-fares
+20,Peninsula Coaches,https://peninsulacoaches.com.au/,Australia/Adelaide,EN,(08) 8821 2755,https://peninsulacoaches.com.au/
+21,Community Care and Transport,https://careinmotion.org.au/,Australia/Adelaide,EN,1300 132 932,https://careinmotion.org.au/
+22,Southlink Country,https://www.keolisdowner.southlink.com.au/,Australia/Adelaide,EN,(08) 8339 7544,https://www.keolisdowner.southlink.com.au/southlink-country-services-planner
+3,Adelaide Metro (Rail Commissioner Tram),https://www.adelaidemetro.com.au/,Australia/Adelaide,EN,1300 311 108,https://www.adelaidemetro.com.au/tickets-and-fares/adelaide-metro-fares
+4,Adelaide Metro (SouthLink),https://www.adelaidemetro.com.au/,Australia/Adelaide,EN,1300 311 108,https://www.adelaidemetro.com.au/tickets-and-fares/adelaide-metro-fares
+5,Adelaide Metro (Torrens Transit),https://www.adelaidemetro.com.au/,Australia/Adelaide,EN,1300 311 108,https://www.adelaidemetro.com.au/tickets-and-fares/adelaide-metro-fares
+8,Adelaide Metro (Busways),https://www.adelaidemetro.com.au/,Australia/Adelaide,EN,1300 311 108,https://www.adelaidemetro.com.au/tickets-and-fares/adelaide-metro-fares
+9,LinkSA,https://www.linksa.com.au/,Australia/Adelaide,EN,(08) 8532 2633,https://www.linksa.com.au/bus-routes/

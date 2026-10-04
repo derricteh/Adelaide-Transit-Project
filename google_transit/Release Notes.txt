@@ -1,0 +1,14 @@
+Adelaide Metro GTFS Release Notes
+
+General Amendments:
+
+1)	Database regularisation after City to Bay.
+2)	Implemented School Holidays trips.
+3)	Stop name update for "Stop School Willunga Waldorf Primary School Jay Dr" to ""Stop School Willunga Waldorf School Jay Dr"
+4)	Stop name update for "Stop 2C Greenhill Rd - North side and Stop 2C Greenhill Rd - South Side" to " Stop Temp Greenhill Rd / Peacock Rd - North 	Side and Stop Temp Greenhill Rd / King William Rd - South Side"
+5)	Stop coordinates update for 2A South Rd - Both sides, Stop 10 South Rd - West side to reflect T2D works.
+6)	Reinstated Stop 8 South Rd - West side for 110,112, 286, 287, 288 to reflect T2D works.
+7)	Stop name update for "Stop School St Michaels Junior College East Av" to "Stop School St Michaels Junior College East Ave".
+8)	Implemented Gawler line closure, and substitute bus services between Saturday 3rd October to Monday 5th October.
+9)	Implemented Outer Harbor, Port Dock, and Grange closure, and substitute bus services between Friday evening 9th October to Sunday 11th October.
+
